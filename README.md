@@ -1,0 +1,1 @@
+Để chạy được Dự Án đầu tiên chúng ta tải dự án này về máy Mở file ConnectDB ra, ở hàm getInstance thay mật khẩu của mình vào, Nếu chưa tải MariaDb về máy, thì bạn có thể ttruy cập link:https://mariadb.org/ để tải về và Insert dữ liệu vào Nếu đã xong hết các bước trên thì lúc này ta đã chạy được dự án rồi đó >>
